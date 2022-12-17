@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+}
+.image {
+  width: 2000px;
+  height: 1000px;
+  position: fixed;
+}
